@@ -11,4 +11,4 @@ SQL is not just for data retrieval. It’s a storytelling tool that can segment 
 This is what I do, I help organisation extract valuable insights from their data using SQL and analytical thinking. If you're a company sitting on data but unsure how to leverage it for decision-making, I'm happy to help.
 
 Let’s connect.
-ennyanuoluwapo01@gmailcom
+ennyanuoluwapo01@gmail.com
